@@ -8,7 +8,7 @@ source code is in this repo
 edit files with editor on our host native tools, you make a change in: /bindmount-sample-1/_posts/2017-03-05-welcome-to-jekyll.markdown
 container detects changes with host files and updates web server
 tips to start the container: docker port 4000, container path localvolume:/site
-Use the docker image:zelfick/jekyll-serve to run the code.
+Use the docker image:zelfick/jekyll-serve to run the code (https://hub.docker.com/r/zelfick/jekyll-serve).
 
 
 remember bind mounts from the docker basic presentation:
