@@ -14,3 +14,5 @@ Use the docker image:zelfick/jekyll-serve to run the code (https://hub.docker.co
 remember bind mounts from the docker basic presentation:
 https://endava-my.sharepoint.com/:p:/p/jorge_herran/EXTZQOEHW-VJnK5Me67jf00BYMWCJ5ueUFvLnnRIWSvoZw?e=7hWMzR
 
+For more information of jekyll; useful for ruby lovers go to: https://jekyllrb.com/
+
